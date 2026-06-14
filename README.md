@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=gustovow&theme=github_dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devgustasilva&theme=github_dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 
 
 ## 🔥 Skills
